@@ -196,3 +196,7 @@ a:hover {
 .header3-inner-list {
     padding-top: 20px;
 }
+.name {
+    color: green;
+    text-align: center;
+}
